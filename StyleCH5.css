@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.Ehw5Y28uYnvEus6DyFeAigHaEo?pid=ImgDet&w=474&h=296&rs=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #733C3C;
+    background: orange;
+    color: #361500;
+    box-shadow: 1px 1px 2px #C69B7B;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
